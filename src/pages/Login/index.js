@@ -1,11 +1,11 @@
 import React from "react";
-import { LoginBG, RegisterBG } from "../../assets";
+import { LoginBG } from "../../assets";
 import { Button, Gap, Input, Link } from "../../components";
 const Login = () => {
   return (
     <div className="main-page">
       <div className="left">
-        <img src={LoginBG} className="bg-image" alt="image login" />
+        <img src={LoginBG} alt="ilustrasi login" className="bg-image" />
       </div>
       <div className="right">
         <p className="title">Login</p>

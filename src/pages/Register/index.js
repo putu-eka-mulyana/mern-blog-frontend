@@ -6,7 +6,7 @@ const Register = () => {
   return (
     <div className="main-page">
       <div className="left">
-        <img src={RegisterBG} className="bg-image" alt="image login" />
+        <img src={RegisterBG} className="bg-image" alt="ilustrasi register" />
       </div>
       <div className="right">
         <p className="title">Register</p>
